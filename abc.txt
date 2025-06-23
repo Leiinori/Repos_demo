@@ -6,3 +6,5 @@ print("test1")
 print("test2")
 
 在雲端上修改檔案, pull給本機看結果
+
+在本機上修改檔案, push給雲端看結果
